@@ -4,7 +4,7 @@ This is a very simple Python GUI application that allows users to **select multi
 
 ## 🧰 Modules Used
 
-* **[FreeSimpleGUI (PySimpleGUI)](https://pysimplegui.readthedocs.io/en/latest/)**: Used for creating the graphical user interface.
+* FreeSimpleGUI - Python Simple GUI software - Used for creating the graphical user interface: https://pypi.org/project/FreeSimpleGUI/
 * **zipfile**: Python's built-in module to create and manage ZIP archives.
 * **pathlib**: Provides object-oriented filesystem paths.
 
@@ -25,9 +25,9 @@ This is a very simple Python GUI application that allows users to **select multi
 
 2. Install the required GUI library if not already installed:
 
-   ```bash
-   pip install PySimpleGUI
-   ```
+  ```bash
+  pip install FreeSimpleGUI
+  ````
 
 3. Save the script and run it with Python:
 
